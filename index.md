@@ -4,9 +4,9 @@ Bachelor’s in computer science and 3D programmer Specialist.
 
 ### Education
 
-2013-2018 Bachelor’s in computer science University of Granada
+**2013-2018** Bachelor’s in computer science _University of Granada_
 
-#### On Going Indra
+#### On Going **Indra**
 Working as a software engineer creating airport simulation software. Written in C++
 and C. Also I’ve been developing plugins for Autodesk Maya in C++ and Python.
 - Support and development of improvements in the internal modeling tool. Fixing
