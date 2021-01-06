@@ -62,8 +62,6 @@ Magic The Gathering.
     
     ![Alt Text](gif/videoxwing.gif)
 
-
-
 ### Skills
 
 My coding Skills:
