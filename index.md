@@ -10,21 +10,21 @@ Bachelor’s in computer science and 3D programmer Specialist.
 
 - #### On Going **Indra**
 
-        Working as a software engineer creating airport simulation software. Written in C++
-        and C. Also I’ve been developing plugins for Autodesk Maya in C++ and Python.
-        - Support and development of improvements in the internal modeling tool. Fixing
-        some internal bugs and developing a new tool to create and assign atlas textures
-        to models.
-        - Plugin programming for Autodesk modeling software, Maya. Developing the
-        functionality to dynamically generate geometry based on a proprietary file format, and tools and interfaces to help 3D artists to generate the extra elements
-        of the airport.
+    Working as a software engineer creating airport simulation software. Written in C++
+    and C. Also I’ve been developing plugins for Autodesk Maya in C++ and Python.
+    - Support and development of improvements in the internal modeling tool. Fixing
+    some internal bugs and developing a new tool to create and assign atlas textures
+    to models.
+    - Plugin programming for Autodesk modeling software, Maya. Developing the
+    functionality to dynamically generate geometry based on a proprietary file format, and tools and interfaces to help 3D artists to generate the extra elements
+    of the airport.
 
 
 - #### 3 Month **Desarrollo-TIC**
 
-        Support the applications made by the company for banks like Caja Rural de Granada
-        and developing of a feature to automatically detect and translate the context of the
-        webpage depending on the region using Symphony and PHP.
+    Support the applications made by the company for banks like Caja Rural de Granada
+    and developing of a feature to automatically detect and translate the context of the
+    webpage depending on the region using Symphony and PHP.
 
 
 
