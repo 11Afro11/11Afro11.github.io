@@ -4,7 +4,7 @@ Bachelor’s in computer science and 3D programmer Specialist.
 
 ### Education
 
-**2013-2018** Bachelor’s in computer science _University of Granada_
+**2013-2018**   Bachelor’s in computer science  _University of Granada_
 
 ### Experience
 
@@ -30,10 +30,10 @@ webpage depending on the region using Symphony and PHP.
 
 ### Courses
 
-- **2020** WPF & XAML: Build 10 WPF applications (C#) in 2020 _Udemy_
-- **2016** Initiation to python3 _Academia T-Formación_
-- **2018** Shader Development from Scratch for Unity with Cg _Udemy_
-- **2018** Level Design Master Class: All in One Complete Course _Udemy_
+- **2020**  WPF & XAML: Build 10 WPF applications (C#) in 2020  _Udemy_
+- **2016**  Initiation to python3   _Academia T-Formación_
+- **2018**  Shader Development from Scratch for Unity with Cg   _Udemy_
+- **2018**  Level Design Master Class: All in One Complete Course   _Udemy_
 
 ### Proyects
 
