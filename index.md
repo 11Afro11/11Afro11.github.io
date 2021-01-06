@@ -58,6 +58,7 @@ Magic The Gathering.
     <img src="images/trasgo-vr.jpg" alt="Goblin" title="An AR Goblin" width="50%" height="50%" />
 
 
+
 - **2015-2016** Developing an interactive program in order to understand the principles of OpenGL's geometry positioning and motion scenes. This program recreates an X-Wing from the Star Wars saga that can fly, shoot and eject a cute R2D2.
     
     ![Alt Text](gif/videoxwing.gif)
