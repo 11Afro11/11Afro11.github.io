@@ -4,11 +4,11 @@ Bachelor’s in computer science and 3D programmer Specialist.
 
 ### Education
 
-**2013-2018** \hr  Bachelor’s in computer science  _University of Granada_
+**2013-2018**  Bachelor’s in computer science  _University of Granada_
 
 ### Experience
 
-#### On Going **Indra**
+- #### On Going **Indra**
 
 Working as a software engineer creating airport simulation software. Written in C++
 and C. Also I’ve been developing plugins for Autodesk Maya in C++ and Python.
@@ -20,7 +20,7 @@ functionality to dynamically generate geometry based on a proprietary file forma
 of the airport.
 
 
-#### 3 Month **Desarrollo-TIC**
+- #### 3 Month **Desarrollo-TIC**
 
 Support the applications made by the company for banks like Caja Rural de Granada
 and developing of a feature to automatically detect and translate the context of the
