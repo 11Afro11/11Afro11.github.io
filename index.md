@@ -6,7 +6,10 @@ Bachelor’s in computer science and 3D programmer Specialist.
 
 **2013-2018** Bachelor’s in computer science _University of Granada_
 
+### Experience
+
 #### On Going **Indra**
+
 Working as a software engineer creating airport simulation software. Written in C++
 and C. Also I’ve been developing plugins for Autodesk Maya in C++ and Python.
 - Support and development of improvements in the internal modeling tool. Fixing
@@ -17,11 +20,20 @@ functionality to dynamically generate geometry based on a proprietary file forma
 of the airport.
 
 
-#### 3 Month
+#### 3 Month **Desarrollo-TIC**
 
-### Experience
+Support the applications made by the company for banks like Caja Rural de Granada
+and developing of a feature to automatically detect and translate the context of the
+webpage depending on the region using Symphony and PHP.
+
+
 
 ### Courses
+
+- **2020** WPF & XAML: Build 10 WPF applications (C#) in 2020 _Udemy_
+- **2016** Initiation to python3 _Academia T-Formación_
+- **2018** Shader Development from Scratch for Unity with Cg _Udemy_
+- **2018** Level Design Master Class: All in One Complete Course _Udemy_
 
 ### Proyects
 
