@@ -50,7 +50,7 @@ restful API.
 allows to project 3D models of cards of the well-known board game
 Magic The Gathering.
 
-    |<img src="images/ar1.jpg" alt="Kitten" title="A cute kitten" width="100%" height="100%" /> | <img src="images/ar2.jpg" alt="Kitten" title="A cute kitten" width="100%" height="100%" />|
+    |<img src="images/ar1.jpg" alt="Kitten" title="A cute kitten" width="50%" height="50%" /> | <img src="images/ar2.jpg" alt="Kitten" title="A cute kitten" width="50%" height="50%" />|
 
     
 
