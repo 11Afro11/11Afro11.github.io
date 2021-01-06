@@ -49,7 +49,7 @@ restful API.
 - **2016-2017** Development of an Augmented Reality App for Android in unity that
 allows to project 3D models of cards of the well-known board game
 Magic The Gathering.
-<img src="/media/2018/08/kitten.jpg" alt="Kitten"
+<img src="images/ar1.jpg" alt="Kitten"
 	title="A cute kitten" width="150" height="100" />
 
 
