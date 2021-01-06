@@ -68,5 +68,3 @@ My personal skills:
 - Able to work as a team.
 - Good organization.
 - Languages: Spanish: Native, English: B1.
-
-
