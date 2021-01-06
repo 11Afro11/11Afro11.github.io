@@ -4,7 +4,7 @@ Bachelor’s in computer science and 3D programmer Specialist.
 
 ### Education
 
-**2013-2018**     Bachelor’s in computer science     _University of Granada_
+**2013-2018**   Bachelor’s in computer science  _University of Granada_
 
 ### Experience
 
@@ -64,6 +64,4 @@ My personal skills:
 - Able to work as a team.
 - Good organization.
 - Languages: Spanish: Native, English: B1.
-
-
 
