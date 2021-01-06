@@ -49,7 +49,7 @@ restful API.
 
 - **2017-2018** Analysis of Ryanair flights network of airports in Europe. This is a breif analisys using Ai and network tools to study the air trafic of Ryanair during a month. Thanks to Gephi and a pluggin called Geo Layout we can see the visual effecttha you see below.
 
-    <img src="images/EuropaComunidades.PNG" alt="Goblin" title="An AR Goblin" width="50%" height="50%" />
+    <img src="images/EuropaComunidades.PNG" alt="Europe" title="Europe" width="50%" height="50%" />
 
 - **2016-2017** Development of an Augmented Reality App for Android in unity that
 allows to project 3D models of cards of the well-known board game
