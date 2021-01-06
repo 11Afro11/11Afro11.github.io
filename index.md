@@ -46,15 +46,23 @@ overhead view with a science fiction theme.
 - **2017-2018** Development of an Android App and Web service to improve accessibility, access to multimedia content and administer content for
 MuseoCajaGranada. Responsible of programing the Web page and
 restful API.
+
+- **2017-2018** Analysis of Ryanair flights network of airports in Europe. This is a breif analisys using Ai and network tools to study the air trafic of Ryanair during a month. Thanks to Gephi and a pluggin called Geo Layout we can see the visual effecttha you see below.
+
+    <img src="images/EuropaComunidades.jpg" alt="Goblin" title="An AR Goblin" width="50%" height="50%" />
+
 - **2016-2017** Development of an Augmented Reality App for Android in unity that
 allows to project 3D models of cards of the well-known board game
 Magic The Gathering.
 
-    <img src="images/ar2.jpg" alt="Goblin" title="An AR Goblin" width="50%" height="50%" />
+    <img src="images/trasgo-vr.jpg" alt="Goblin" title="An AR Goblin" width="50%" height="50%" />
 
 
-- **2015-2016** Developing an interactive program in order to understand the principles of OpenGL's geometry positioning and motion scenes
+- **2015-2016** Developing an interactive program in order to understand the principles of OpenGL's geometry positioning and motion scenes. This program recreates an X-Wing from the Star Wars saga that can fly, shoot and eject a cute R2D2.
+    
     ![Alt Text](gif/videoxwing.gif)
+
+
 
 ### Skills
 
