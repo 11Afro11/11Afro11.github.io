@@ -50,16 +50,11 @@ restful API.
 allows to project 3D models of cards of the well-known board game
 Magic The Gathering.
 
-    |<img src="images/ar1.jpg" alt="Kitten" title="A cute kitten" width="50%" height="50%" /> | <img src="images/ar2.jpg" alt="Kitten" title="A cute kitten" width="50%" height="50%" />|
+    <img src="images/ar2.jpg" alt="Goblin" title="An AR Goblin" width="50%" height="50%" />
 
 
-
+- **2015-2016** Developing an interactive program in order to understand the principles of OpenGL's geometry positioning and motion scenes
     ![Alt Text](gif/videoxwing.gif)
-
-    
-
-
-
 
 ### Skills
 
