@@ -37,6 +37,18 @@ webpage depending on the region using Symphony and PHP.
 
 ### Proyects
 
+- **2017-2018** Degree’s final project: Web application of personal organization. Implementation of API Rest and Front-End. Use of .NET Core, ReactJS
+and Microsoft SQLServer technologies.
+- **2017-2018** Roguelike game in unity. Development of a 3D shooter game with
+overhead view with a science fiction theme.
+- **2017-2018** Development of an Android App and Web service to improve accessibility, access to multimedia content and administer content for
+MuseoCajaGranada. Responsible of programing the Web page and
+restful API.
+- **2016-2017** Development of an Augmented Reality App for Android in unity that
+allows to project 3D models of cards of the well-known board game
+Magic The Gathering.
+
+
 ### Skills
 
 You can use the [editor on GitHub](https://github.com/11Afro11/11Afro11.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
