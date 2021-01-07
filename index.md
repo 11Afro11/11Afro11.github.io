@@ -2,6 +2,8 @@
 
 Bachelor’s in computer science and 3D programmer Specialist.
 
+<x-model src="models/Earth/Earth.glb"></x-model>
+
 ### Education
 
 **2013-2018**  Bachelor’s in computer science  _University of Granada_
