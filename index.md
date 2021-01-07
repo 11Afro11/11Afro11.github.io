@@ -1,8 +1,9 @@
 ## About me
 
 Bachelor’s in computer science and 3D programmer Specialist.
-
-<x-model src="models/Earth/Earth.glb"></x-model>
+<div>
+    <x-model src="models/Earth/Earth.glb"></x-model>
+</div>
 
 ### Education
 
