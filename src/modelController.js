@@ -29,13 +29,12 @@
 
   
       scene.style.transform =
-        "translateZ(701px)" +
         "rotateX(" +
         cameraRotationX.toFixed(6) +
-        "rad)" +
+        "deg)" +
         "rotateY(" +
         cameraRotationY.toFixed(6) +
-        "rad)";
+        "deg)";
   
     };
   
@@ -59,7 +58,7 @@
     };
   
     document.addEventListener("click", () => {
-      document.body.requestPointerLock();
+      start();
     });
   
     document.addEventListener("pointerlockchange", () => {
