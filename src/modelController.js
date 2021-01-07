@@ -24,8 +24,8 @@
   
      
   
-      cameraRotationX = Math.max(cameraRotationX, -Math.PI / 2);
-      cameraRotationX = Math.min(cameraRotationX, Math.PI / 2);
+      cameraRotationX = Math.max(cameraRotationX, -Math.PI / 2)*10;
+      cameraRotationX = Math.min(cameraRotationX, Math.PI / 2)*10;
 
   
       scene.style.transform =
