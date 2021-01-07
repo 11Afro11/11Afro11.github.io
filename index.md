@@ -49,6 +49,10 @@ and Microsoft SQLServer technologies.
 - **Roguelike game in unity.** Development of a 3D shooter game with
 overhead view with a science fiction theme.
 
+- **Unity Video Game Demo.** Small demo of a low poly video game in Unity. This demo is intended to show the use of motion scrips in Unity, the animation and transition of character animations and the application of shaders to the scene
+
+    ![](video/unity.mp4)
+
 - **Android App and Web service.** Development of an Android App and Web service to improve accessibility, access to multimedia content and administer content for
 MuseoCajaGranada. Responsible of programing the Web page and
 restful API.
