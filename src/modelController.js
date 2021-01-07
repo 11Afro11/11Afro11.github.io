@@ -33,7 +33,7 @@
         "rotateX(" +
         cameraRotationX.toFixed(6) +
         "deg)" +
-        "rotateY(" +
+        "rotateZ(" +
         cameraRotationY.toFixed(6) +
         "deg)";
   
@@ -42,8 +42,8 @@
 
   
     const mouseHandler = e => {
-      cameraRotationY += e.movementX * rotationSpeed;
-      cameraRotationX -= e.movementY * rotationSpeed;
+      cameraRotationY += e.movementY * rotationSpeed;
+      cameraRotationX += e.movementX * rotationSpeed;
     };
   
     const start = () => {
