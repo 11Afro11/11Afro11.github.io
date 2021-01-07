@@ -24,17 +24,17 @@
   
      
   
-      cameraRotationX = Math.max(cameraRotationX, -Math.PI / 2)*50;
-      cameraRotationX = Math.min(cameraRotationX, Math.PI / 2)*50;
+      cameraRotationX = Math.max(cameraRotationX, -Math.PI / 2);
+      cameraRotationX = Math.min(cameraRotationX, Math.PI / 2);
 
   
       scene.style.transform =
         "rotateX(" +
         cameraRotationX.toFixed(6) +
-        "deg)" +
+        "rad)" +
         "rotateY(" +
         cameraRotationY.toFixed(6) +
-        "deg)";
+        "rad)";
   
     };
   
