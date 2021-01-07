@@ -31,14 +31,6 @@ Bachelor’s in computer science and 3D programmer Specialist.
     webpage depending on the region using Symphony and PHP.
 
 
-
-### Courses
-
-- **2020**  WPF & XAML: Build 10 WPF applications (C#) in 2020  _Udemy_
-- **2016**  Initiation to python3   _Academia T-Formación_
-- **2018**  Shader Development from Scratch for Unity with Cg   _Udemy_
-- **2018**  Level Design Master Class: All in One Complete Course   _Udemy_
-
 ### Proyects
 
 - **Facial capture.** Demo for animation using Blender software. In this demo you can animate a mesh of a face using a video as a reference thanks to a small python script to autodetect and position the bones needed to animate, as well as associate them with the mesh and apply the deformations
@@ -70,6 +62,14 @@ Magic The Gathering.
 - **OpenGL X-Wing.** Developing an interactive program in order to understand the principles of OpenGL's geometry positioning and motion scenes. This program recreates an X-Wing from the Star Wars saga that can fly, shoot and eject a cute R2D2.
     
     ![Alt Text](gif/videoxwing.gif)
+
+
+### Courses
+
+- **2020**  WPF & XAML: Build 10 WPF applications (C#) in 2020  _Udemy_
+- **2016**  Initiation to python3   _Academia T-Formación_
+- **2018**  Shader Development from Scratch for Unity with Cg   _Udemy_
+- **2018**  Level Design Master Class: All in One Complete Course   _Udemy_
 
 ### Skills
 
