@@ -2,7 +2,22 @@
 
 Bachelor’s in computer science and 3D programmer Specialist.
 
-    <x-model src="models/Earth/Earth.glb"></x-model>
+<style>
+.model { 
+  animation: spin 10s linear infinite;
+ }
+
+ @keyframes spin {
+   to {
+     transform: rotateY(1turn)
+   }
+ }
+</style>
+<x-model class="model" src="models/Earth/Earth.glb"></x-model>
+<script src="assets/js/vendor/custom-element-polyfill.min.js"></script>
+<script src="assets/js/vendor/three.min.js"></script>
+<script src="assets/js/vendor/three-gltf-loader.min.js"></script>
+<script src="dist/model-element.min.js"></script>
 
 ### Education
 
