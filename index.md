@@ -1,9 +1,8 @@
 ## About me
 
 Bachelor’s in computer science and 3D programmer Specialist.
-<div>
-    <x-model src="models/Earth/Earth.glb"></x-model>
-</div>
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/8a3f6e66955e41d48762d75725d3ab52/embed?autostart=0&amp;u
 
 ### Education
 
