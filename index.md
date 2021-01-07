@@ -3,7 +3,7 @@
 Bachelor’s in computer science and 3D programmer Specialist.
 
 
-<x-model class="model" src="models/Duck/Duck.obj"></x-model>
+<x-model class="model" src="models/Duck/Duck.gltf"></x-model>
 
 
 ### Education
