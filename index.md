@@ -11,7 +11,7 @@ Bachelor’s in computer science and 3D programmer Specialist.
 - #### On Going **Indra**
 
     Working as a software engineer creating airport simulation software. Written in C++
-    and C. Also I’ve been developing plugins for Autodesk Maya in C++ and Python.
+    and C#. Also I’ve been developing plugins for Autodesk Maya in C++ and Python.
 
     - Support and development of improvements in the internal modeling tool. Fixing
     some internal bugs and developing a new tool to create and assign atlas textures
