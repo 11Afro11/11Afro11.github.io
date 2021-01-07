@@ -2,7 +2,8 @@
     var scene = document.getElementById("3dModel");
   
     var paused = true;
-  
+    
+    var rotationSpeed = 0.2;
     var accel = 0.5;
     var maxSpeed = 10;
   
@@ -23,26 +24,26 @@
       }
   
      
-  
+  /* 
       cameraRotationX = Math.max(cameraRotationX, -Math.PI / 2);
-      cameraRotationX = Math.min(cameraRotationX, Math.PI / 2);
+      cameraRotationX = Math.min(cameraRotationX, Math.PI / 2); */
 
   
       scene.style.transform =
         "rotateX(" +
         cameraRotationX.toFixed(6) +
-        "rad)" +
+        "deg)" +
         "rotateY(" +
         cameraRotationY.toFixed(6) +
-        "rad)";
+        "deg)";
   
     };
   
 
   
     const mouseHandler = e => {
-      cameraRotationY += e.movementX;
-      cameraRotationX -= e.movementY;
+      cameraRotationY += e.movementY * rotationSpeed;
+      cameraRotationX += e.movementX * rotationSpeed;
     };
   
     const start = () => {
