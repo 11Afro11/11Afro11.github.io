@@ -21,6 +21,8 @@ Bachelor’s in computer science and 3D programmer Specialist.
     functionality to dynamically generate geometry based on a proprietary file format, and tools and interfaces to help 3D artists to generate the extra elements
     of the airport.
 
+    - Implementation of a new 3D tactical map synchronizing the company's own viewer tools with the .Net application to monitor pilot learning. In addition to implementing improvements and supporting the old 3D map developed in DirectX.
+
 
 - #### 3 Month **Desarrollo-TIC**
 
