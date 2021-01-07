@@ -41,10 +41,14 @@ Bachelor’s in computer science and 3D programmer Specialist.
 
 ### Proyects
 
+- **Facial capture.** Demo for animation using Blender software. In this demo you can animate a mesh of a face using a video as a reference thanks to a small python script to autodetect and position the bones needed to animate, as well as associate them with the mesh and apply the deformations
+    ![Alt Text](gif/Talking.gif)
 - **Degree’s final project.** Web application of personal organization. Implementation of API Rest and Front-End. Use of .NET Core, ReactJS
 and Microsoft SQLServer technologies.
+
 - **Roguelike game in unity.** Development of a 3D shooter game with
 overhead view with a science fiction theme.
+
 - **Android App and Web service.** Development of an Android App and Web service to improve accessibility, access to multimedia content and administer content for
 MuseoCajaGranada. Responsible of programing the Web page and
 restful API.
