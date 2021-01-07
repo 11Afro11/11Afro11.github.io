@@ -73,6 +73,7 @@ Magic The Gathering.
 
 ### Skills
 
+
 My coding Skills:
 - C++
 - C#
