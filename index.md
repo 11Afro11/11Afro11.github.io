@@ -59,13 +59,13 @@ restful API.
 
 - **Analysis of Ryanair flights network of airports in Europe**. This is a breif analisys using Ai and network tools to study the air trafic of Ryanair during a month. Thanks to Gephi and a pluggin called Geo Layout we can see the visual effecttha you see below.
 
-    <img src="images/EuropaComunidades.PNG" alt="Europe" title="Europe" width="50%" height="50%" />
+    <img src="images/EuropaComunidades.PNG" alt="Europe" title="Europe" width="100%" height="50%" />
 
 - **Development of an Augmented Reality App.** Augmented reality app for Android in unity that
 allows to project 3D models of cards of the well-known board game
 Magic The Gathering.
 
-    <img src="images/trasgo-vr.jpg" alt="Goblin" title="An AR Goblin" width="50%" height="50%" />
+    <img src="images/trasgo-vr.jpg" alt="Goblin" title="An AR Goblin" width="100%" height="50%" />
 
 - **OpenGL X-Wing.** Developing an interactive program in order to understand the principles of OpenGL's geometry positioning and motion scenes. This program recreates an X-Wing from the Star Wars saga that can fly, shoot and eject a cute R2D2.
     
