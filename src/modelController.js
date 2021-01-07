@@ -42,8 +42,8 @@
 
   
     const mouseHandler = e => {
-      cameraRotationX += e.movementX * rotationSpeed;
-      cameraRotationY += e.movementY * rotationSpeed;
+      cameraRotationX += e.movementY * rotationSpeed;
+      cameraRotationY += e.movementX * rotationSpeed;
     };
   
     const start = () => {
