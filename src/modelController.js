@@ -69,5 +69,6 @@
         stop();
       }
     });
+    start();
     update();
   })();
