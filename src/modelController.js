@@ -58,9 +58,9 @@
 
     };
   
-    document.addEventListener("click", () => {
+/*     document.addEventListener("click", () => {
       start();
-    });
+    }); */
   
     document.addEventListener("pointerlockchange", () => {
       if (document.pointerLockElement) {
@@ -69,6 +69,6 @@
         stop();
       }
     });
-  
+    start();
     update();
   })();
