@@ -31,10 +31,10 @@
   
       scene.style.transform =
         "rotateX(" +
-        cameraRotationX.toFixed(6) +
-        "deg)" +
-        "rotateZ(" +
         cameraRotationY.toFixed(6) +
+        "deg)" +
+        "rotateY(" +
+        cameraRotationX.toFixed(6) +
         "deg)";
   
     };
@@ -43,7 +43,7 @@
   
     const mouseHandler = e => {
       cameraRotationX += e.movementX * rotationSpeed / 150;
-      cameraRotationY -= e.movementY * rotationSpeed / 150;
+      cameraRotationY += e.movementY * rotationSpeed / 150;
     };
   
     const start = () => {
