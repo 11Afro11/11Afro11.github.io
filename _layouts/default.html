@@ -18,7 +18,7 @@
         
         {% if site.logo %}
           <!-- <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius: 50%"/> -->
-          <x-model alt="Logo" id="3dModel" src="../models/Duck/Duck.gltf"></x-model>
+          <x-model alt="Logo" class="model" id="3dModel" src="../models/Duck/Duck.gltf"></x-model>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -67,7 +67,7 @@
 </html>
 
 <style>
-/*   .model { 
+  .model { 
     animation: spin 10s linear infinite;
    }
   
@@ -75,7 +75,7 @@
      to {
       transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
      }
-   } */
+   }
   </style>
 
 <script src="../assets/js/vendor/custom-element-polyfill.min.js"></script>
