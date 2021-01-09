@@ -18,7 +18,10 @@
         
         {% if site.logo %}
           <!-- <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius: 50%"/> -->
-          <x-model alt="Logo" class="view" id="3dModel" src="../models/Duck/Duck.gltf" style="position:relative"></x-model>
+          <div class="wrapper">
+            <x-model alt="Logo" id="3dModel" src="../models/Duck/Duck.gltf" style="position:relative"></x-model>
+          </div>
+          
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
