@@ -58,7 +58,7 @@
 
     };
   
-    document.addEventListener("load", () => {
+    document.addEventListener("click", () => {
       start();
     });
   
@@ -69,6 +69,5 @@
         stop();
       }
     });
-    start();
     update();
   })();
