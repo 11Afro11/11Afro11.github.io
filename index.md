@@ -33,7 +33,7 @@ Bachelor’s in computer science and 3D programmer Specialist.
     Support the applications made by the company for banks like Caja Rural de Granada
     and developing of a feature to automatically detect and translate the context of the
     webpage depending on the region using Symphony and PHP.
-
+ 
 
 ### Proyects
 
