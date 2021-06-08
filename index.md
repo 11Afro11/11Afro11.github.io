@@ -2,21 +2,11 @@
 
 Bachelor’s in computer science and 3D programmer Specialist.
 
-<style>
-.model {
-  width: 50vw;
-  height: 50vw;
-  animation: 5s spin linear infinite;
-}
+<!-- Import the component -->
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
-@keyframes spin {
-  to {
-    transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
-  }
-}
-<style>
-
-<x-model class="model" src="models/scene.gltf"></x-model>
+<!-- Use it like any other HTML element -->
+<model-viewer src="models/Totoro.glb" alt="A 3D model of an astronaut" ar ar-modes="webxr scene-viewer quick-look" environment-image="neutral" auto-rotate camera-controls></model-viewer>
 
 
 
