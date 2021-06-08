@@ -3,42 +3,11 @@
 Bachelor’s in computer science and 3D programmer Specialist.
 
 <style>
-  #lazy-load-poster {
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    background-image: url("../../assets/poster-damagedhelmet.png");
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  #button-load {
-    background-image: url("../../assets/ic_get_app_white_24dp.svg");
-    background-repeat: no-repeat;
-    background-size: 24px 24px;
-    background-position: 6% 50%;
-    background-color: #000;
-    color: white;
-    cursor: pointer;
-    border-radius: 6px;
-    display: inline-block;
-    padding: 10px 18px 9px 40px;
-    font-weight: 500;
-    box-shadow: 0 0 8px rgba(0,0,0,.2), 0 0 4px rgba(0,0,0,.25);
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate3d(-50%, -50%, 0);
-    z-index: 100;
+  model-viewer#reveal {
+    --poster-color: transparent;
   }
 </style>
-<!-- use unique asset to ensure lazy loading -->
-<model-viewer id="lazy-load" camera-controls reveal="interaction" src="../../shared-assets/models/glTF-Sample-Models/2.0/DamagedHelmet/glTF/DamagedHelmet.gltf" alt="A 3D model of a damaged helmet">
-  <div id="lazy-load-poster" slot="poster"></div>
-  <div id="button-load" slot="poster">Load 3D Model</div>
-</model-viewer>
+<model-viewer id="reveal" loading="eager" camera-controls auto-rotate poster="../../assets/poster-shishkebab.png" src="../../shared-assets/models/shishkebab.glb" alt="A 3D model of a shishkebab"></model-viewer>
 
 <!-- <x-model class="model" id="3dModel" src="models/Duck/Duck.gltf"></x-model> -->
 
@@ -100,13 +69,13 @@ src="https://www.youtube.com/embed/ODGyksC7RjU">
 - **OpenGL X-Wing.** Developing an interactive program in order to understand the principles of OpenGL's geometry positioning and motion scenes. This program recreates an X-Wing from the Star Wars saga that can fly, shoot and eject a cute R2D2.
 
 
--**Unreal engine Toon Tank.** A technical demo of a third-person shooter where you are controlling a tank and your objective is defeating all the turrets in the scene, as you can see in the video the AI of the turrets is so well programmed the player isn't able to beat the phase(there is nothing related to the player's ability).
+- **Unreal engine Toon Tank.** A technical demo of a third-person shooter where you are controlling a tank and your objective is defeating all the turrets in the scene, as you can see in the video the AI of the turrets is so well programmed the player isn't able to beat the phase(there is nothing related to the player's ability).
 
 <iframe width="100%" height="420"
 src="https://www.youtube.com/embed/_w9jT0-8bQg">
 </iframe>
 
--**Unreal Engine Third person Shooter.** A simple level of a third-person shooter where you play as a space ranger that needs to kill all the other enemies to win. This demo includes character animation, sound effects, particle effects, AI with a tracking routine, and a game loop.
+- **Unreal Engine Third person Shooter.** A simple level of a third-person shooter where you play as a space ranger that needs to kill all the other enemies to win. This demo includes character animation, sound effects, particle effects, AI with a tracking routine, and a game loop.
 
 <iframe width="100%" height="420"
 src="https://www.youtube.com/embed/6LZULoZq0hc">
