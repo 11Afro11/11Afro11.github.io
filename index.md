@@ -47,7 +47,7 @@ overhead view with a science fiction theme.
 
 - **Unity Video Game Demo.** Small demo of a low poly video game in Unity. This demo is intended to show the use of motion scrips in Unity, the animation and transition of character animations and the application of shaders to the scene
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Everything Is AWESOME](images/unitySHader.png)](https://www.youtube.com/watch?v=zOb8UpVcIeY&list=PL4PaohC95M0nz_2KBZyQGc6WbwkL5VIBp "Demo Unity Shader")
 
 - **Android App and Web service.** Development of an Android App and Web service to improve accessibility, access to multimedia content and administer content for
 MuseoCajaGranada. Responsible of programing the Web page and
