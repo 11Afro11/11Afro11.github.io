@@ -9,7 +9,7 @@ model-viewer {
 
 <!-- Use it like any other HTML element -->
 <model-viewer src="models/book/scene.gltf" alt="A 3D model of an astronaut" 
-shadow-intensity="1" camera-controls auto-rotate camera-target='0m 100m -40m'></model-viewer>
+shadow-intensity="1" camera-controls auto-rotate></model-viewer>
 
 
 ## About me
