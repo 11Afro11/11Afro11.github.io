@@ -11,7 +11,7 @@ Bachelor’s in computer science and 3D programmer Specialist.
 
 <!-- Use it like any other HTML element -->
 <div width="1920" height="420">
-<model-viewer src="models/crow/scene.gltf" alt="A 3D model of an astronaut" 
+<model-viewer src="models/book/scene.gltf" alt="A 3D model of an astronaut" 
 shadow-intensity="1" camera-controls auto-rotate></model-viewer>
 </div>
 
