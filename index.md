@@ -87,6 +87,8 @@ Magic The Gathering.
 - **2016**  Initiation to python3   _Academia T-Formación_
 - **2018**  Shader Development from Scratch for Unity with Cg   _Udemy_
 - **2018**  Level Design Master Class: All in One Complete Course   _Udemy_
+- **2021**  Unreal Engine 4: The Complete Beginner's Course _Udemy_
+- **2021**  Unreal Engine C++ Developer: Learn C++ and Make Video Games Course _Udemy_
 
 ### Skills
 
@@ -99,7 +101,6 @@ My coding Skills:
 - Maya
 
 My personal skills:
-- Ability to work under pressure.
 - Fast learning.
 - Able to work as a team.
 - Good organization.
