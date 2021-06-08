@@ -6,7 +6,8 @@ Bachelor’s in computer science and 3D programmer Specialist.
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
 <!-- Use it like any other HTML element -->
-<model-viewer width="100%" height="420" src="models/Totoro.glb" alt="A 3D model of an astronaut" environment-image="neutral" camera-controls auto-rotate></model-viewer>
+<model-viewer width="100%" height="420" src="models/Totoro.glb" alt="A 3D model of an astronaut" 
+shadow-intensity="1" camera-controls auto-rotate></model-viewer>
 
 
 
