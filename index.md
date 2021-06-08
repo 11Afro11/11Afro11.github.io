@@ -5,6 +5,10 @@ Bachelor’s in computer science and 3D programmer Specialist.
 <!-- Import the component -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
+<style>
+  model-viewer {width:1920; height:420}
+</style>
+
 <!-- Use it like any other HTML element -->
 <div width="1920" height="420">
 <model-viewer src="models/crow/scene.gltf" alt="A 3D model of an astronaut" 
