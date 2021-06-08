@@ -6,14 +6,16 @@ Bachelor’s in computer science and 3D programmer Specialist.
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
 <style>
-  model-viewer {width:1920; height:420}
+model-viewer {
+  width: 800px;
+  height: 600px;
+}
 </style>
 
 <!-- Use it like any other HTML element -->
-<div width="1920" height="420">
 <model-viewer src="models/book/scene.gltf" alt="A 3D model of an astronaut" 
 shadow-intensity="1" camera-controls auto-rotate></model-viewer>
-</div>
+
 
 
 
