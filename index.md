@@ -48,7 +48,7 @@ overhead view with a science fiction theme.
 - **Unity Video Game Demo.** Small demo of a low poly video game in Unity. This demo is intended to show the use of motion scrips in Unity, the animation and transition of character animations and the application of shaders to the scene
 
 <iframe width="100%" height="420"
-src="https://youtu.be/zOb8UpVcIeY">
+src="https://www.youtube.com/embed/zOb8UpVcIeY">
 </iframe>
 
 - **Android App and Web service.** Development of an Android App and Web service to improve accessibility, access to multimedia content and administer content for
@@ -60,7 +60,7 @@ allows to project 3D models of cards of the well-known board game
 Magic The Gathering.
 
 <iframe width="100%" height="420"
-src="https://youtu.be/ODGyksC7RjU">
+src="https://www.youtube.com/embed/ODGyksC7RjU">
 </iframe>
 
 - **OpenGL X-Wing.** Developing an interactive program in order to understand the principles of OpenGL's geometry positioning and motion scenes. This program recreates an X-Wing from the Star Wars saga that can fly, shoot and eject a cute R2D2.
