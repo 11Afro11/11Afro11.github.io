@@ -72,7 +72,7 @@ allows to project 3D models of cards of the well-known board game Magic The Gath
     </iframe>
 
 
-- **Unreal engine Toon Tank.** A technical demo of a third-person shooter where you are controlling a tank and your objective is defeating all the turrets in the scene, as you can see in the video the AI of the turrets is so well programmed the player isn't able to beat the phase(there is nothing related to the player's ability).
+- **Unreal engine Toon Tank.** A technical demo of a third-person shooter where you are controlling a tank and your objective is defeating all the turrets in the scene, as you can see in the video the AI of the turrets is so well programmed the player isn't able to beat the phase (there is nothing related to the player's ability).
 
     <iframe width="100%" height="420"
     src="https://www.youtube.com/embed/_w9jT0-8bQg">
