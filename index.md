@@ -1,8 +1,3 @@
-## About me
-
-Bachelor’s in computer science and 3D programmer Specialist.
-
-<!-- Import the component -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
 <style>
@@ -17,9 +12,11 @@ model-viewer {
 shadow-intensity="1" camera-controls auto-rotate></model-viewer>
 
 
+## About me
 
+Bachelor’s in computer science and 3D programmer Specialist.
 
-
+<!-- Import the component -->
 
 ### Education
 
