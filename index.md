@@ -3,13 +3,21 @@
 Bachelor’s in computer science and 3D programmer Specialist.
 
 <style>
-  model-viewer#reveal {
-    --poster-color: transparent;
-  }
-</style>
-<model-viewer id="reveal" loading="eager" camera-controls auto-rotate poster="../../assets/poster-shishkebab.png" src="../../shared-assets/models/shishkebab.glb" alt="A 3D model of a shishkebab"></model-viewer>
+.model {
+  width: 50vw;
+  height: 50vw;
+  animation: 5s spin linear infinite;
+}
 
-<!-- <x-model class="model" id="3dModel" src="models/Duck/Duck.gltf"></x-model> -->
+@keyframes spin {
+  to {
+    transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+  }
+}
+<style>
+
+<x-model class="model" src="models/Totoro.glb"></x-model>
+
 
 
 ### Education
