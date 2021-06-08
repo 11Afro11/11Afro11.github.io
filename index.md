@@ -47,7 +47,7 @@ overhead view with a science fiction theme.
 
 - **Unity Video Game Demo.** Small demo of a low poly video game in Unity. This demo is intended to show the use of motion scrips in Unity, the animation and transition of character animations and the application of shaders to the scene
 
-<iframe width="420" height="315"
+<iframe width="100%" height="100%"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
 
