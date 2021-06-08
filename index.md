@@ -16,7 +16,7 @@ Bachelor’s in computer science and 3D programmer Specialist.
 }
 <style>
 
-<x-model class="model" src="./models/scene.gltf"></x-model>
+<x-model class="model" src="models/scene.gltf"></x-model>
 
 
 
