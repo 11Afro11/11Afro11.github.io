@@ -1,3 +1,5 @@
+## About me
+
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
 <style>
@@ -11,10 +13,7 @@ model-viewer {
 <model-viewer src="models/book/scene.gltf" alt="A 3D model of an astronaut" 
 shadow-intensity="1" camera-controls auto-rotate></model-viewer>
 
-
-## About me
-
-Bachelor’s in computer science and 3D programmer Specialist. Curious allways try to learn more about graphics an videogames. I allways try to develop things by myself or improve my actual skills. one example for this is the gian 3D animated book that you see above, it is a 3D importer than i find only for given a better look to this page. the source model was getted from sketchfab by the user [Pixel](https://sketchfab.com/stefan.lengyel1). I am a programmer and my artistic skills are very limited.
+Bachelor’s in computer science and 3D programmer Specialist. Curious always try to learn more about graphics and videogames. I always try to develop things by myself or improve my actual skills. one example for this is the giant 3D animated book that you see above, it is a 3D importer that i find only for giving a better look to this page. the source model was got from sketchfab by the user [Pixel](https://sketchfab.com/stefan.lengyel1). I am a programmer and my artistic skills are very limited, not like my programming skills.
 
 <!-- Import the component -->
 
