@@ -58,7 +58,7 @@ Bachelor’s in computer science and 3D programmer Specialist. Curious always tr
       src="https://www.youtube.com/embed/XlTyyRbSM7E">
     </iframe>
 
-- **Unity Video Game Demo.** Small demo of a low poly video game in Unity. This demo is intended to show the use of motion scrips in Unity, the animation and transition of character animations and the application of shaders to the scene.
+- **Unity Video Game Demo.** Small demo of a low poly video game in Unity. This demo is intended to show the use of motion scrips in Unity, the animation of the character and the application of shaders to the scene. in this case we can see a fully rigged character with a game stealth mechanic.
 
     <iframe width="100%" height="420"
     src="https://www.youtube.com/embed/zOb8UpVcIeY">
