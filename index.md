@@ -20,7 +20,7 @@ Bachelor’s in computer science and 3D programmer Specialist. Curious always tr
 ### Education
 
 **2013-2018**  Bachelor’s in computer science  _University of Granada_
-
+**2021-NOW**   Videogame Design And Development _UOC_
 ### Experience
 - #### On Going **Orbital Critical Systems**
     
