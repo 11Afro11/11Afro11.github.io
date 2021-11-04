@@ -10,7 +10,7 @@ model-viewer {
 </style>
 
 <!-- Use it like any other HTML element -->
-<model-viewer src="models/book/scene.glb" alt="Tengu Mask" 
+<model-viewer src="models/book/scene.gltf" alt="Tengu Mask" 
 shadow-intensity="1" camera-controls auto-rotate autoplay camera-orbit="0deg 50deg 50%"></model-viewer>
 
 Bachelor’s in computer science and 3D programmer Specialist. Curious always try to learn more about graphics and videogames. I always try to develop things by myself or improve my actual skills. one example for this is the giant 3D animated book that you see above, it is a 3D importer that i find only for giving a better look to this page. the source model was got from sketchfab by the user [Pixel](https://sketchfab.com/stefan.lengyel1). I am a programmer and my artistic skills are very limited, not like my programming skills.
