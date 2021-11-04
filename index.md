@@ -22,7 +22,7 @@ Bachelor’s in computer science and 3D programmer Specialist. Curious always tr
 **2013-2018**  Bachelor’s in computer science  _University of Granada_
 
 ### Experience
-- ### On Going **Orbital Critical Systems**
+- #### On Going **Orbital Critical Systems**
     
 
 - #### 2.5 Years **Indra**
